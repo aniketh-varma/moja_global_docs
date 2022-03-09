@@ -41,6 +41,8 @@ extensions = ['recommonmark',
 
 master_doc = 'index'
 
+nbsphinx_allow_errors = True
+
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['source/_templates']
 
